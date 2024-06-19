@@ -8,7 +8,7 @@ products:
 - azure-app-service
 ---
 
-# Deploy a Python (FastAPI) web app to Azure App Service - Sample Application
+# Deploy a Python (FastAPI) web app to Azure App Service - Sample Application.
 
 This is the sample FastAPI application for the Azure Quickstart [Deploy a Python (Django, Flask or FastAPI) web app to Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python). For instructions on how to create the Azure resources and deploy the application to Azure, refer to the Quickstart article.
 
